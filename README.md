@@ -1,5 +1,3 @@
 👋 Hi, I’m @eemilycchen 
-I’m interested in data science and analysis.
-I’m currently learning SQL. I can program in Python, Java, and C.
-I’m looking to collaborate on building a basic flask API.
-📫 How to reach me : emily.764537@gmail.com
+I’m studying Applied Mathematics and Computer Science at the University of California San Diego. Here I will be sharing projects related to data science and statistics, and  refining my clean coding and test-driven development skills.
+📫 How to reach me: emc001@ucsd.edu
