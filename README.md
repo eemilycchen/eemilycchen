@@ -1,2 +1,2 @@
 👋 Hi, I’m @eemilycchen 
-I studied Applied Mathematics and Computer Science at the University of California San Diego.
+I graduated with a Bachelor of Science degree in Applied Mathematics, with a minor in Computer Science at the University of California San Diego.
