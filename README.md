@@ -1,2 +1,2 @@
 👋 Hi, I’m @eemilycchen 
-I am interested in applied mathematics, specifically in machine learning in data science!
+I am grad student studying data science in UC San Diego interested in education and industry applications of machine learning!
