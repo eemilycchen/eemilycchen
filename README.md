@@ -1,2 +1,2 @@
 👋 Hi, I’m @eemilycchen 
-I graduated with a Bachelor of Science degree in Applied Mathematics, with a minor in Computer Science at the University of California San Diego.
+I am interested in applied mathematics, specifically in machine learning in data science!
